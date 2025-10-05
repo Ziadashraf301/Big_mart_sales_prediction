@@ -1,4 +1,4 @@
-# Big_mart_sales_prediction
+# BigMart_sales_prediction
 
 ![](https://assets.website-files.com/60e7f71b22c6d0b9cf329ceb/621e1a2f28ded71ee95aeede_6ProvenSalesForecastingMethodstoDriveRevenue1_a117440b5ae227c3dba5264a6521da06_2000.png)
 
